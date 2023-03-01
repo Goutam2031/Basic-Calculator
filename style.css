@@ -1,0 +1,27 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+}
+
+.button{
+  padding:20px;
+  margin:-9px -3px;
+  border:2px solid black;
+  border-radius:30px;
+  cursor:pointer;
+  width: 60px;
+  border-color:white;
+  color:white;
+}
+
+.row{
+  margin:8px 0px;
+}
+.row input{
+  font-size:18px;
+  margin:0;
+  padding:10px 0px;
+  border: 2px solid black;
+  border-radius:5px;
+}
